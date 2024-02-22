@@ -1,10 +1,5 @@
 # Hi there!
 
-
-
-
-![animation-anime-computer-Favim com-6909451](https://github.com/daggzu/daggzu/assets/112585566/8a3e79b8-db76-43bf-a1a5-1d309d4e7b48)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoagonzalezpr@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gonzalez8603/)
@@ -71,3 +66,6 @@ I am a software engineer named Diego Gonzalez, deeply enthusiastic about automat
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=daggzu&show_icons=true&locale=en&layout=compact&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=daggzu&show_icons=true&theme=radical)
+
+
+![animation-anime-computer-Favim com-6909451](https://github.com/daggzu/daggzu/assets/112585566/8a3e79b8-db76-43bf-a1a5-1d309d4e7b48)

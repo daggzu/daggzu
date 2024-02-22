@@ -1,4 +1,4 @@
-# Hi there, I'm Diego Gonzalez
+# Hi there!
 
 ![anime-keyboard](https://github.com/daggzu/Profile/assets/112585566/6192c6cb-5ed7-4816-8adb-ffa2528ff90e)
 

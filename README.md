@@ -1,6 +1,9 @@
 # Hi there!
 
 
+![3242cd86b9986b537732ad0244f8e042](https://github.com/daggzu/daggzu/assets/112585566/fdf6675e-3410-4cf6-b157-6cb7197d2d1a)
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoagonzalezpr@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gonzalez8603/)

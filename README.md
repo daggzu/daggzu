@@ -1,8 +1,6 @@
 # Hi there!
 
 
-![anime-keyboard](https://github.com/daggzu/Profile/assets/112585566/6192c6cb-5ed7-4816-8adb-ffa2528ff90e)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoagonzalezpr@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gonzalez8603/)

@@ -1,8 +1,9 @@
 # Hi there!
 
 
-![3242cd86b9986b537732ad0244f8e042](https://github.com/daggzu/daggzu/assets/112585566/fdf6675e-3410-4cf6-b157-6cb7197d2d1a)
 
+
+![animation-anime-computer-Favim com-6909451](https://github.com/daggzu/daggzu/assets/112585566/8a3e79b8-db76-43bf-a1a5-1d309d4e7b48)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoagonzalezpr@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Resume.pdf)
